@@ -1,6 +1,3 @@
-# Writing README.md file to /mnt/data/README.md with the project content provided earlier.
-readme_content = """# FOIR-Based Customer Financial Analysis
-
 ## Project Overview
 Every financial institution faces the challenge of deciding whether a customer can *safely afford* a new loan. Many borrowers already have existing EMIs or fixed obligations — which can affect their repayment capacity.
 
