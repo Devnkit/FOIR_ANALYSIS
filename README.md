@@ -67,8 +67,4 @@ To analyze customer-level FOIR data and derive insights that can help:
 - The majority of customers fall within the safe zone (≤40%), but a significant minority are high-risk.
 - Correlation analysis showed moderate relationship between `loanAmount` and `foirPercentage`.
 
-## How to Run This Project
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/FOIR-Analysis.git
-cd FOIR-Analysis
+
